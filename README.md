@@ -1,4 +1,7 @@
-# Social-Distancing-Detector
+# Social-Distancing-Detector 
+
+	https://img.shields.io/github/license/Swarupa567/Social-Distancing-Detector | [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) | [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
+
 
 Created an AI Tool to help Customers monitor Social Distancing in the Workplace.
 
@@ -10,8 +13,11 @@ To complement our customers’ efforts and to help ensure social distancing prot
 
 ## Requirements:
 NumPy
+
 OpenCV
+
 Time and 
+
 math
 
 ## working:
